@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /?s={search_term_string}
+
